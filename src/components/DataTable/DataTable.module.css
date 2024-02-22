@@ -1,0 +1,52 @@
+.container {
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+}
+
+.container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.container table td {
+  padding: 10px 0;
+}
+
+.container table thead tr td {
+  font-weight: 600;
+}
+
+.container table tr {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.container table .tab {
+  padding-left: 20px;
+}
+
+.container table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.container form {
+  display: flex;
+  align-items: center;
+}
+
+.container form input {
+  width: 150px;
+  padding: 5px;
+  font-size: 16px;
+  background: none;
+  border: none;
+  margin-right: 10px;
+}
+
+.container form button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #007fff;
+  background: none;
+  border: none;
+}

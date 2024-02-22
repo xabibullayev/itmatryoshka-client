@@ -1,0 +1,10 @@
+.navbar {
+  height: 80px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  -webkit-box-shadow: 1px 7px 26px 0px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 1px 7px 26px 0px rgba(34, 60, 80, 0.2);
+  box-shadow: 1px 7px 26px 0px rgba(34, 60, 80, 0.2);
+}

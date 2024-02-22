@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+}
+
+.right {
+  background-color: #fafafa;
+  width: 85%;
+}
+
+.main {
+  padding: 20px;
+}
+
+.main h1 {
+  font-size: 20px;
+  color: #34314c;
+  margin-bottom: 20px;
+}
